@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: This is a blog post
 subtitle: lorem-ipsum
 date: '2021-04-25'
 excerpt: lorem-ipsum
